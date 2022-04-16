@@ -1,0 +1,4 @@
+.col {
+  display: flexbox;
+  flex-direction: row;
+}
